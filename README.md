@@ -1,4 +1,4 @@
-﻿# DotNet8.BooksApi — README
+﻿# FormacaoCSharp.Bookstore
 
 ## 📘 Descrição
 
@@ -66,7 +66,7 @@ dotnet --version
 
 ```bash
 git clone https://github.com/alessandroibes/FormacaoCSharp.Bookstore.git
-cd DotNet8.BooksApi
+cd FormacaoCSharp.Bookstore
 ```
 
 2. Restaure as dependências:
